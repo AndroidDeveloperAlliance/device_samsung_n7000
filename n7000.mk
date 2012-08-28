@@ -28,7 +28,7 @@ PRODUCT_AAPT_PREF_CONFIG := xhdpi
 PRODUCT_LOCALES += xhdpi
 
 #Bootanimation
-TARGET_BOOTANIMATION_NAME := vertical-800x1280
+TARGET_BOOTANIMATION_NAME := bootanimation_n7
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.sf.lcd_density=320
